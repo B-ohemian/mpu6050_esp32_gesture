@@ -1,15 +1,7 @@
-# _Sample project_
+# MPU6050使用ESP32进行姿态解算
+该项目是基于小马哥四轴飞控的姿态解算部分移植到了ESP32S3上面并能够很好的运行。该项目在ESP32\ESP32S3上成功测试。
+## 如何使用
 
-(See the README.md file in the upper level 'examples' directory for more information about examples.)
-
-This is the simplest buildable example. The example is used by command `idf.py create-project`
-that copies the project to user specified path and set it's name. For more information follow the [docs page](https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/build-system.html#start-a-new-project)
-
-
-
-## How to use example
-We encourage the users to use the example as a template for the new projects.
-A recommended way is to follow the instructions on a [docs page](https://docs.espressif.com/projects/esp-idf/en/latest/api-guides/build-system.html#start-a-new-project).
 
 ## Example folder contents
 
